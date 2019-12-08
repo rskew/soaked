@@ -15,7 +15,7 @@ Roadmap:
 
 ## Running it
 
-This project uses [MicroPython](https://micropython.org/). I'm running an [ESP32](http://esp32.net/) microcontroller, with digital I/O controlling relays that switch 24VAC to a couple of solenoid valves, which are part of the drip watering system in my front yard.
+This project uses [MicroPython](https://micropython.org/). I'm running an [ESP32](http://esp32.net/) microcontroller, with digital I/O controlling relays that switch a couple of solenoid valves which are part of the drip watering system in my front yard.
 
 
 ## License
