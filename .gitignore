@@ -3,3 +3,6 @@
 
 # webrepl cloned repo
 webrepl
+
+# emacs temp files
+.#*

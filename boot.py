@@ -1,14 +1,16 @@
+## Board preparation:
+#
+# Load the MicroPython firmware onto the board.
+#
+# Create file '/wifi_creds' with the wifi ssid on the first line and the
+# password on the second line.
+
 # This file is executed on every boot (including wake-boot from deepsleep)
 #import esp
 #esp.osdebug(None)
 
 import network
 import webrepl
-
-## Board preparation:
-#
-# Create file '/wifi_creds' with the wifi ssid on the first line and the
-# password on the second line.
 
 ## Start webrepl
 
