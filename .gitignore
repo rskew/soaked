@@ -1,0 +1,5 @@
+# esp firmware
+*.bin
+
+# webrepl cloned repo
+webrepl
