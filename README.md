@@ -5,6 +5,7 @@ Control garden critters to water the veggies and eventually also other things.
 Roadmap:
 - [x] run a webserver on a microcontroller
 - [x] control i/o pins via a web interface
+- [x] i/o pins control garden watering system
 - [ ] control watering schedule via web interface
 - [ ] control multiple nodes from a single webserver
 - [ ] add soil moisture sensor nodes
